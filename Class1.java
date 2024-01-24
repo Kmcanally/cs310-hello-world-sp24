@@ -18,7 +18,7 @@ public class Class1 {
     }
 
     private void f4() {
-        // v3.0 (Work in Progress)
+        // v3.0 (complete)
     }
     
 }
